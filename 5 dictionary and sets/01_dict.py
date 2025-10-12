@@ -1,4 +1,4 @@
-d = {} # Empty dictionary
+# d = {} // Empty dictionary
 marks = {
     "Meen": 100,
     "Shubham": 56,
